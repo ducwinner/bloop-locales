@@ -1,0 +1,102 @@
+{
+    "toast": {
+        "export_failed": "Export failed. Please try again.",
+        "email_sent": "Email sent",
+        "send_email_failed": "Send email failed, please try again"
+    },
+    "actions": {
+        "invite": "Invite",
+        "export": "Export"
+    },
+    "tabs": {
+        "all_customers": "All customers",
+        "referrer": "Referrer",
+        "referee": "Referee",
+        "referral_completed": "Referral completed",
+        "not_joined": "Not joined"
+    },
+    "table_headings": {
+        "customer": "Customer",
+        "name": "Name",
+        "shopify_status": "Shopify status",
+        "program_status": "Program status",
+        "successful_referrals": "Successful referrals",
+        "referral_invites": "Referral invites",
+        "referrer_revenue": "Referrer revenue",
+        "referee_revenue": "Referee revenue",
+        "created_at": "Created at",
+        "source": "Source",
+        "order_id": "Order ID",
+        "action": "Action"
+    },
+    "export_file": "referrers.csv",
+    "customer_table": {
+        "search_placeholder": "Search Customers",
+        "resource_singular": "customer",
+        "resource_plural": "customers"
+    },
+    "invite_modal": {
+        "title": "Invite customers",
+        "send_invitation": "Send invitation",
+        "cancel": "Cancel",
+        "search_placeholder": "Search Customers",
+        "empty": "No customers found",
+        "headings": {
+            "name": "Name",
+            "shopify_status": "Shopify status",
+            "program_status": "Program status"
+        },
+        "program_status_tooltip": "Only customers having Program status as Guest can be invited",
+        "joined": "Joined",
+        "not_joined": "Not joined",
+        "all": "All"
+    },
+    "customer_detail": {
+        "discount_status_error": "Error fetching discount status",
+        "empty_not_found": "Not found",
+        "referee_list_title": "Referee list",
+        "referee_list_subtitle": "Customers referred by this customer",
+        "referee_headings": {
+            "referee": "Referee",
+            "date_created": "Date created",
+            "referral_method": "Referral method",
+            "used": "Used",
+            "coupon_code": "Coupon code",
+            "order_id": "Order ID",
+            "revenue": "Revenue",
+            "status": "Status"
+        },
+        "referral_method_code": "Code",
+        "completed": "Completed",
+        "unused": "Unused",
+        "not_collected": "Not collected",
+        "referrer_rewards_title": "Referrer rewards",
+        "referrer_rewards_subtitle": "Rewards earned from successful referrals",
+        "referrer_rewards_headings": {
+            "reward_type": "Reward Type",
+            "rewards": "Rewards",
+            "date_created": "Date created",
+            "used": "Used",
+            "order_id": "Order ID",
+            "revenue": "Revenue",
+            "status": "Status"
+        },
+        "reward_type_coupon": "Coupon",
+        "reward_type_store_credit": "Store credit",
+        "reward_type_cash": "Cash",
+        "store_credit_value": "{{value}} {{currency}} store credit",
+        "cash_value": "{{value}} {{currency}} cash"
+    },
+    "discount_status": {
+        "active": "Active",
+        "expired": "Expired",
+        "scheduled": "Scheduled"
+    },
+    "table_rows": {
+        "referee_list_count": "Referee list ({{count}})",
+        "referee_orders_count": "Referee orders ({{count}})"
+    },
+    "view_payouts": {
+        "title": "View Payouts"
+    }
+}
