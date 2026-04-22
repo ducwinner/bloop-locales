@@ -1,0 +1,361 @@
+{
+    "groups": {
+        "overview": "OVERVIEW",
+        "set_rewards": "SET REWARDS",
+        "audience": "AUDIENCE",
+        "promote": "PROMOTE",
+        "email_notification": "EMAIL NOTIFICATION",
+        "ab_testing": "A/B TESTING"
+    },
+    "items": {
+        "setup_summary": "Setup summary",
+        "referrer_reward": "Referrer reward",
+        "referee_reward": "Referee reward",
+        "referral_method": "Referral method",
+        "audience": "Audience",
+        "popup_widget": "Pop-up widget",
+        "referral_page": "Referral page",
+        "social_message": "Social message",
+        "post_purchase": "Post-purchase popup",
+        "customer_account": "Customer account extension",
+        "email_flow": "Email flow",
+        "ab_test": "A/B test"
+    },
+    "toast_rule_saved": "Referral rule saved",
+    "referral_method_page_title": "Referral method",
+    "common": {
+        "active": "Active",
+        "inactive": "Inactive",
+        "none": "none",
+        "days": "{{count}} days",
+        "discount_coupon_percent": "{{value}}% discount coupon",
+        "discount_coupon_fixed": "{{value}}{{currency}} off coupon"
+    },
+    "help": {
+        "title": "Start faster with our help",
+        "book_call_title": "Book a call",
+        "book_call_desc": "Get a walkthrough + setup tips.",
+        "personalized_plan_title": "Get personalized plan",
+        "personalized_plan_desc": "Fill a short form, get a to-do list.",
+        "chat_title": "Chat with us",
+        "chat_desc": "Got questions? We're here.",
+        "docs_title": "Support docs",
+        "docs_desc": "Step-by-step guides & FAQs."
+    },
+    "email_flow_page": {
+        "title": "Email flow",
+        "internal_title": "Use our email flow",
+        "internal_description": "Send automated emails right from our app. With ready-made templates, full customization",
+        "internal_feature_1": "Pre-built, easy-to-edit templates",
+        "internal_feature_2": "Customize content in minutes",
+        "internal_feature_3": "No extra setup needed",
+        "internal_button": "Setup email flow",
+        "external_title": "Use an external email platform",
+        "external_description": "Connect with Klaviyo or Mailchimp to send emails from your existing setup.",
+        "external_feature_1": "Use your existing email platform",
+        "external_feature_2": "Leverage advanced segmentation",
+        "external_feature_3": "Event data synchronization",
+        "external_button": "Connect External Platform"
+    },
+    "others_setup": {
+        "title": "Others",
+        "discount_code_prefix_title": "Discount code prefix",
+        "discount_code_prefix_label": "Discount code prefix",
+        "discount_code_prefix_placeholder": "BLOOP",
+        "discount_code_prefix_help": "The discount code will be {{prefix}}XXXXX.",
+        "referral_redirection_url_title": "Referral redirection URL",
+        "referral_redirection_url_help_prefix": "By clicking referral link, customers redirected to",
+        "referral_redirection_url_help_suffix": "{{path}}"
+    },
+    "audience_page": {
+        "title": "Audience",
+        "heading": "Who can join the program",
+        "referrers_heading": "Referrers - Who can refer",
+        "referees_heading": "Referees - Who can get referred",
+        "referees_value": "First-time customers",
+        "referees_help": "Only first-time customers can be referred and get discounts",
+        "referrer_options": {
+            "all_customers": "All customers",
+            "members": "Members",
+            "specific_customers": "Specific customers",
+            "customer_tags": "Customer tags",
+            "customers_with_completed_order": "Customers with at least one completed order"
+        },
+        "referrer_help": {
+            "1": "Everyone can refer friends and get discounts without log in",
+            "2": "Only members can refer friends and get discounts by required log in",
+            "3": "Only selected customers can refer friends and get discounts by required log in",
+            "4": "Only customers with specific tags can refer friends and get discounts",
+            "5": "Only customers who have at least one completed order can refer friends and get discounts"
+        },
+        "customer_tags": {
+            "search_placeholder": "Search",
+            "add": "Add",
+            "error_empty": "Please enter some text",
+            "error_exists": "The tag already exists"
+        },
+        "specific_customers": {
+            "resource_singular": "customers",
+            "resource_plural": "customers",
+            "guest": "Guest",
+            "search_placeholder": "Search customers",
+            "search_label": "Search",
+            "browse": "Browse",
+            "search_action": "Search",
+            "error_generic": "Something went wrong",
+            "modal_title": "Add Customers",
+            "select": "Select",
+            "cancel": "Cancel"
+        }
+    },
+    "referral_method": {
+        "title": "Referral method",
+        "link_title": "Link (Recommended)",
+        "code_title": "Code",
+        "turn_off": "Turn off",
+        "turn_on": "Turn on",
+        "link_description": "Each referrer gets unique link. Referees must visit it and enter email to get discount code for checkout",
+        "code_description": "Each referrer gets unique referral code. Referees use code to get discount at checkout",
+        "help_link": "How referral link & referral code works?",
+        "disable_both_warning": "You are turning off both reward methods. This will disable your referral program.",
+        "disable_modal_title": "Stop referral program?",
+        "disable_modal_confirm": "Yes, turn it off",
+        "disable_modal_discard": "Discard"
+    },
+    "setup_summary": {
+        "title": "Setup Summary",
+        "subtitle": "Get overview of how your campaign will run once live",
+        "section_1_title": "1. Customers join as referrers",
+        "target_audience": "Target audience:",
+        "popup_widget_shown": "Popup widget shown:",
+        "referrers_receive_email": "Referrers receive email:",
+        "section_2_title": "2. Referrers invite friends (referees)",
+        "referrers_share_via": "Referrers share referral link via:",
+        "referees_receive_email": "Referees receive email:",
+        "section_3_title": "3. Referees make purchase",
+        "reward_eligible": "Reward eligible: First-time customers",
+        "referees_receive": "Referees receive:",
+        "reward_conditions": "Reward conditions:",
+        "referees_buy": "Referees buy",
+        "reward_combined_with": "Reward can be combined with",
+        "reward_expiry": "Reward expiry:",
+        "section_4_title": "4. Referrers get rewarded",
+        "timing": "Timing: Rewards given immediately after referee purchase",
+        "referrers_receive": "Referrers receive:",
+        "timing_email": "Referrers receive email:",
+        "referrers_buy": "Referrers buy",
+        "requirement_spend_over": "{{label}} must spend over",
+        "requirement_buy_more_than": "{{label}} must buy more than",
+        "requirement_have_at_least": "{{label}} must have at least",
+        "requirement_total_order_value": "{{value}} total order value",
+        "requirement_products": "{{count}} products",
+        "requirement_successful_referees": "{{count}} successful referees",
+        "combine_discount": {
+            "product": "Product discounts",
+            "order": "Order discounts",
+            "shipping": "Shipping discounts"
+        },
+        "design_type": {
+            "all_pages": "All pages",
+            "on_selected_pages": "On selected pages",
+            "all_pages_except_some": "All pages except some pages"
+        },
+        "product_type": {
+            "products_from_collections": "Products from collections"
+        },
+        "email_labels": {
+            "welcome_program": "Welcome to referral program",
+            "successful_referral": "Successful referral",
+            "email_invitation": "Email invitation from referrer",
+            "discount_confirmation": "Discount confirmation (after entering email)",
+            "reward_expiry_reminder": "Reward expiry reminder",
+            "enabled": "Enabled",
+            "deactivated": "Deactivated"
+        }
+    },
+    "reward_common": {
+        "errors": {
+            "discount": "Discount value can’t be blank",
+            "customer": "Specific customers must be added",
+            "product": "Specific products must be added",
+            "collection": "Specific collections must be added",
+            "variant": "Specific product variants must be added",
+            "purchase": "Minimum purchase can’t be blank",
+            "quantity": "Minimum quantity can’t be blank",
+            "referee": "Minimum quantity of referees can’t be blank",
+            "period": "Valid period can't be blank"
+        },
+        "reward_name": {
+            "title": "Reward name",
+            "placeholder": "Enter your reward name, e.g., {{DiscountValue}} off all orders",
+            "help": "Use {{token}} to represent the discount value"
+        },
+        "discount_value": {
+            "title": "Discount value",
+            "fixed_amount": "Fixed amount",
+            "percentage": "Percentage"
+        },
+        "minimum_requirement": {
+            "title": "Minimum requirements",
+            "options": {
+                "none": "None",
+                "amount": "Minimum purchase amount",
+                "items": "Minimum quantity of items",
+                "referees": "Minimum quantity of referees"
+            },
+            "help_product_all": "Applies to all products.",
+            "help_product_specific": "Applies only to selected products.",
+            "help_product_collection": "Applies only to selected collections.",
+            "referrer_help": "Referrers need to refer {{count}} referees to get discount."
+        },
+        "expiry_date": {
+            "title": "Expiry date",
+            "none": "None",
+            "valid_period": "Valid period",
+            "day_suffix": "day (s)",
+            "help": "Discount will be unavailable after {{count}} days starting from the created date"
+        },
+        "combine_discount": {
+            "title": "Combinations",
+            "product": "Product discounts",
+            "order": "Order discounts",
+            "shipping": "Shipping discounts"
+        },
+        "apply_product": {
+            "title": "Apply to products",
+            "all_products": "All products",
+            "specific_products": "Specific products",
+            "specific_variants": "Specific product variants",
+            "collections": "Product collections",
+            "search_variants_placeholder": "Search product variants",
+            "browse": "Browse"
+        },
+        "purchase_type": {
+            "title": "Purchase type",
+            "one_time": "One-time purchase",
+            "subscription": "Subscription",
+            "both": "Both",
+            "subscription_help_prefix": "Looking to add subscription options to your store? Try using",
+            "subscription_help_link": "Easto Subscriptions",
+            "subscription_help_suffix": "to enable this feature",
+            "both_help": "Select only if your store supports both subscription and one-time purchases. Otherwise, discounts will not be applied"
+        }
+    },
+    "quick_settings": {
+        "dismiss": "Dismiss",
+        "all_tasks_complete": "All tasks complete",
+        "progress_label": "{{done}} of {{total}} {{taskWord}} complete",
+        "task_word_singular": "task",
+        "task_word_plural": "tasks",
+        "header_aria": "Setting header",
+        "title": "Setup guide",
+        "description": "Use this personalized guide to get your store up and running",
+        "dismiss_toggle_aria": "Dismiss and Toggle",
+        "step_program_title": "Set up the referral reward",
+        "step_program_description": "Set up conditions and rewards for Referral program to increase sales growth.",
+        "step_program_action": "Edit reward",
+        "step_branding_title": "Customize the display of popup and page",
+        "step_branding_description_line_1": "Design the look of popup/page to align with your brand.",
+        "step_branding_description_line_2": "Translate content to match your primary language.",
+        "step_branding_action": "Go to Branding",
+        "step_image_alt": "Setting Step"
+    },
+    "popup_widget": {
+        "title": "Pop-up widget",
+        "customize": "Customize",
+        "cards": {
+            "button_title": "Widget button",
+            "button_desc": "Customize widget button to catch customer attention and promote your referral program.",
+            "content_title": "Widget pop-up content",
+            "content_desc": "Customize widget content to engage customers and encourage them to share.",
+            "design_title": "Widget pop-up design",
+            "design_desc": "Customize widget design to match your brand and increase professionalism."
+        }
+    },
+    "payment_method": {
+        "title": "Reward Payment Methods",
+        "description_prefix": "Select reward payment methods for customers to choose from and provide details if you offer",
+        "description_cash": "Cash",
+        "description_middle": "rewards. Otherwise, you can skip this step. You will see payments need to be done in",
+        "description_cash_payout": "cash payout",
+        "description_suffix": "tab",
+        "add_more": "Add more payments"
+    },
+    "promote_referral_page": {
+        "default_title": "Referral Program",
+        "how_it_works": "How it works",
+        "header_title": "Referral page",
+        "header_description": "Set up your referral page for customers, then customize how it looks in your theme editor.",
+        "what_is_page": "What is this page?",
+        "setup_your_page": "Set up your page",
+        "setup_page_description": "Create the page in your store, then edit its design in the theme editor.",
+        "create": "Create",
+        "page_title_label": "Page title",
+        "page_handle_label": "Page handle",
+        "page_url_label": "Page URL",
+        "copy": "Copy",
+        "update_page": "Update page",
+        "open_theme_editor": "Open theme editor",
+        "view_page": "View page",
+        "create_modal_title": "Add to page",
+        "cancel": "Cancel",
+        "landing_page_url": "Landing page URL",
+        "error_handle_required": "A page-handle is required",
+        "error_handle_exists": "A page-handle exists, please enter an unique handle",
+        "toast_create_missing_id": "Create page succeeded but page id is missing",
+        "toast_create_success": "Page created successfully",
+        "toast_create_failed": "Failed to create page",
+        "toast_update_success": "Page updated successfully",
+        "toast_update_failed": "Failed to update page",
+        "toast_unknown_error": "Something went wrong!",
+        "steps": {
+            "create_title": "Create your page",
+            "create_desc": "We will create a page in your Shopify store.",
+            "customize_title": "Customize design",
+            "customize_desc": "Edit how the page looks in your theme editor.",
+            "setup_title": "Set up your page (recommended)",
+            "setup_desc": "Make your referral program easy to access:",
+            "bullet_1_prefix": "Add the page to your ",
+            "bullet_1_menu": "main menu",
+            "bullet_1_or": " or ",
+            "bullet_1_footer": "footer",
+            "bullet_2_prefix": "Or embed it into ",
+            "bullet_2_any_page": "any page",
+            "bullet_2_middle": " using the app block in ",
+            "bullet_2_edit_theme": "Edit Theme",
+            "bullet_3": "Share the page link with your customers"
+        }
+    },
+    "promote_customer_account": {
+        "title": "Customer account extension",
+        "description": "Setup customer account extension to reach out to more potential referrers",
+        "watch_video": "Watch setup video",
+        "what_is_this": "What is customer account extension?",
+        "toast_updated": "Translation updated",
+        "toast_error_save": "Error when save",
+        "pages": {
+            "link": "Referral link",
+            "reward": "Referral reward"
+        }
+    },
+    "promote_post_purchase": {
+        "title": "Post-purchase widget",
+        "description": "Setup post-purchase referral widget to reach out to more potential referrers",
+        "watch_video": "Watch setup video",
+        "what_is_this": "What is post-purchase widget?",
+        "toast_updated": "Translation updated",
+        "toast_error_save": "Error when save",
+        "pages": {
+            "referral": "Referral block",
+            "email": "Email sending"
+        }
+    },
+    "promote_social_sharing": {
+        "title": "Social message",
+        "preview": "Preview",
+        "toast_upload_failed": "Upload images failed",
+        "toast_updated": "Social content updated",
+        "toast_error_generic": "There was an error. Please try again later",
+        "error_occurred": "An error has occurred"
+    }
+}
