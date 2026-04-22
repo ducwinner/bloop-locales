@@ -1,0 +1,85 @@
+{
+    "common": {
+        "back": "Back",
+        "next_step": "Next step",
+        "hint_change_later": "You can change this later"
+    },
+    "step_one": {
+        "title": "What would you like to create?",
+        "cta_create": "Create",
+        "footer_note": "You can setup the other program later. Both campaigns can be managed from your dashboard at any time.",
+        "program_referral": {
+            "title": "Customer Referral",
+            "description": "Let your existing customers invite friends",
+            "features": [
+                "Friends get a discount as a reward",
+                "The referrer earns discounts as a commission",
+                "Work as a loyalty program"
+            ]
+        },
+        "program_affiliate": {
+            "title": "Affiliate Campaign",
+            "description": "Work with partners, influencers, or publishers",
+            "features": [
+                "They promote your store with links/codes",
+                "Earn commission for every sale they bring",
+                "Best for scaling with professional promoters"
+            ]
+        }
+    },
+    "step_two_referral": {
+        "title": "Referral program",
+        "reward_heading": "Referral reward",
+        "reward_description": "A referral is complete when the referred person uses the reward given by the referrer to make a purchase",
+        "referrer_label": "Referrer (who refers) get",
+        "referee_label": "Referee (who gets referred) get",
+        "branding_heading": "Choose your branding color",
+        "branding_description": "This will be the main color for referral popup and referral page",
+        "primary_color_title": "Primary color"
+    },
+    "step_two_affiliate": {
+        "title": "Affiliate program",
+        "commission_heading": "Affiliate commission",
+        "commission_type_label": "Type of commission",
+        "commission_value_label": "Value",
+        "image_alt": "Bloop referral",
+        "option_percentage": "Percentage of sales",
+        "option_per_order": "Fix per order",
+        "option_per_item": "Fix per item",
+        "example_percentage": "For example, an order with a total sales amount of $1000, the affiliate will earn a {{percent}}% commission, which is ${{amount}}",
+        "example_per_order": "For example, regardless of how much the sales amount of an order is, the affiliate's commission is always {{value}}{{symbol}} per order",
+        "example_per_item": "For example, regardless of how many items of an order is, the affiliate's commission is always {{value}}{{symbol}} per item"
+    },
+    "step_two_portal": {
+        "title": "Affiliate Program",
+        "portal_heading": "Affiliate portal",
+        "portal_description": "The Affiliate Portal provides affiliates with tools to access links, monitor performance, and manage payouts",
+        "login_hint": "Login with a test account now to see how portal looks like",
+        "test_account": "Test account: bloopaffiliate@bsscommerce.com; password: 123456",
+        "view_portal": "View portal demo",
+        "image_alt": "Bloop referral"
+    },
+    "step_three": {
+        "title": "Ready to launch",
+        "image_alt": "Bloop referral",
+        "intro": "The last step: ready to launch your program by enable the app embedded block",
+        "step1_body": "Go to <1>Theme Customization</1>",
+        "step2_body": "Make sure <b>BLOOP Referral</b> is on",
+        "step3_body": "Click <b>Save</b>",
+        "hint": "You can change this later",
+        "loading_save": "Save product",
+        "cta_enable": "Enable app block",
+        "skip": "I'll do it later"
+    },
+    "step_four": {
+        "title": "There're more to explore",
+        "sub_ready": "Ready to launch",
+        "cta_launch": "Launch program",
+        "cta_skip": "Continue without launching",
+        "image_alt": "Bloop picture step four",
+        "heading_referral": "Referral program",
+        "heading_affiliate": "Affiliate program",
+        "cross_sell_referral": "In addition to the Referral Program, we also offer an Affiliate Program that can benefit your business. Please check it out under the Affiliate tab, and feel free to let us know if you need any assistance! 😊",
+        "cross_sell_affiliate": "In addition to the Affiliate Program, we also offer an Referral Program that can benefit your business. Please check it out under the Referral tab, and feel free to let us know if you need any assistance! 😊"
+    }
+}

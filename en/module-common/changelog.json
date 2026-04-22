@@ -1,0 +1,16 @@
+{
+    "page_title": "Release Notes",
+    "section_go_live": "Go live timeline",
+    "empty": "No release notes yet.",
+    "no_date": "No date",
+    "released_on": "Released on {{date}}",
+    "widget": {
+        "whats_coming_cta": "What's coming up!",
+        "whats_new": "What's new?",
+        "view_full": "View full",
+        "no_updates": "No updates yet.",
+        "whats_next": "What's coming next update?",
+        "coming_soon_badge": "Coming soon",
+        "no_planned": "No planned updates yet."
+    }
+}

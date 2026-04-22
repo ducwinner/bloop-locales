@@ -1,0 +1,63 @@
+{
+    "error_boundary": "Something went wrong",
+    "locale": {
+        "english": "English",
+        "vietnamese": "Vietnamese"
+    },
+    "actions": {
+        "cancel": "Cancel",
+        "close": "Close",
+        "back": "Back",
+        "copy": "Copy",
+        "delete": "Delete",
+        "save": "Save",
+        "confirm": "Confirm",
+        "view": "View",
+        "edit": "Edit",
+        "add": "Add",
+        "apply": "Apply"
+    },
+    "status": {
+        "active": "Active",
+        "inactive": "Inactive",
+        "enabled": "Enabled",
+        "disabled": "Disabled"
+    },
+    "contact_us": "Contact us",
+    "na": "N/A",
+    "toast": {
+        "success": "Successfully",
+        "failed": "Failed",
+        "saved": "Saved",
+        "something_went_wrong": "Something went wrong"
+    },
+    "unsaved_changes": {
+        "leave_title": "Leave page with unsaved changes?",
+        "leave_action": "Leave page",
+        "stay_action": "Stay",
+        "leave_message": "Leaving this page will delete all unsaved changes."
+    },
+    "add_tags": {
+        "search_placeholder": "Search",
+        "errors": {
+            "enter_text": "Please enter some text",
+            "tag_exists": "The tag already exists",
+            "field_blank": "Field can't be blank"
+        }
+    },
+    "banner_book_call": {
+        "title": "Need help with setup?",
+        "description": "Get personalized guidance from our team to get started quickly",
+        "book_call": "Book a call",
+        "guideline": "Guideline",
+        "live_chat": "Live chat"
+    },
+    "color_selector": {
+        "recently_selected": "Recently selected",
+        "currently_used": "Currently used"
+    },
+    "dashboard_item": {
+        "coming_soon": "Coming soon",
+        "customize": "Customize"
+    }
+}

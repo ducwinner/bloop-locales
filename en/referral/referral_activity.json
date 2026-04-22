@@ -1,0 +1,32 @@
+{
+    "headings": {
+        "created_at": "Created at",
+        "customer": "Customer",
+        "role": "Role",
+        "action": "Action"
+    },
+    "resource": {
+        "singular": "activity",
+        "plural": "activities"
+    },
+    "roles": {
+        "referrer": "Referrer",
+        "referee": "Referee"
+    },
+    "empty": "No activity found",
+    "actions": {
+        "joined_program": "Joined program",
+        "joined_with_link_code_prefix": "Joined program and received the",
+        "joined_with_link_code_link": "referral link",
+        "joined_with_link_code_suffix": "with discount code {{discount}}",
+        "joined_with_link_prefix": "Joined program and received the",
+        "joined_with_link_link": "referral link",
+        "joined_with_code": "Joined program and received discount code",
+        "claimed_discount_prefix": "Claimed the {{discount}} from",
+        "received_store_credit_prefix": "Received the {{credit}}{{currency}} store credit from order",
+        "received_cash_prefix": "Received the {{cash}}{{currency}} cash from order",
+        "claimed_discount_code_prefix": "Claimed the discount code",
+        "purchased_order_prefix": "Purchased an order",
+        "banned_referrer": "Banned referrer"
+    }
+}

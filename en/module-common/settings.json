@@ -1,0 +1,114 @@
+{
+    "page": {
+        "title": "Settings",
+        "toast_saved": "Settings updated",
+        "toast_error": "Error when save setting"
+    },
+    "email_sender": {
+        "title": "Email sender",
+        "tooltip": "Use your own domain to send emails, so messages come from your brand instead of a generic address. This improves trust and deliverability.",
+        "banner_success_title": "Instruction sent",
+        "banner_success_body": "Instruction is on their way to {{email}}. Verify your email right now to finalize the process!",
+        "banner_error_title": "Unable to save",
+        "banner_error_body": "Please verify your email to continue saving!",
+        "banner_timeout_title": "Instruction has been sent already",
+        "banner_timeout_body": "We've sent the instructions to {{email}}. You can resend them in {{seconds}} seconds.",
+        "free_banner_body": "🎁 Customize your email sender name for free! <1>Contact us</1>",
+        "sender_name_label": "Sender name",
+        "domain_label": "Email sender domain",
+        "customize": "Customize",
+        "address_label": "Email sender address",
+        "verified": "Verified",
+        "unverified": "Unverified",
+        "verify_cta": "Verify",
+        "required_name": "Sender's name is required",
+        "required_email": "Email sender is required",
+        "invalid_email": "Your email is invalid or doesn't exist"
+    },
+    "referral_share": {
+        "title": "Referral - sharing URL customization",
+        "tooltip": "Customize the domain of your referral links (e.g., <1>share.yourstore.com</1>) so they look professional and match your brand.",
+        "sharing_domain": "Sharing domain",
+        "customize": "Customize",
+        "link_example": "The referral link could be like this: https://{{domain}}/d29azDx",
+        "modal": {
+            "title": "Referral – Sharing URL Customization",
+            "cta": "Contact support",
+            "step_1": "Contact us to get the <1>IP address of our sharing service.</1>",
+            "step_2": "Follow <1>this guide</1> to point your domain/subdomain to our service.",
+            "step_3": "Let us know once you're done, along with the <1>sharing URL</1> you've chosen.",
+            "step_4": "We'll verify and activate you <1>referral sharing URL.</1>"
+        }
+    },
+    "custom_portal": {
+        "title": "Affiliate - portal domain customization",
+        "tooltip": "Set up a custom domain for your affiliate portal (e.g., <1>partners.yourstore.com</1>) to give affiliates a branded login and management experience.",
+        "sharing_domain": "Sharing domain",
+        "customize": "Customize",
+        "link_example": "The portal link will be like this: {{url}}/{{subpath}}",
+        "modal": {
+            "title": "Affiliate - Portal Domain Customization",
+            "cta": "Contact support",
+            "step_1": "Contact us to get the <1>IP address of our portal service.</1>",
+            "step_2": "Follow <1>this guide</1> to point your domain/subdomain to our service.",
+            "step_3": "Let us know once completed, and share the <1>portal URL</1> you've set up.",
+            "step_4": "We'll verify and activate your <1>affiliate portal domain.</1>"
+        }
+    },
+    "email_sender_domain": {
+        "title": "Email sender domain",
+        "description": "Using your own domain to send emails can help reduce the risk of them landing in the spam folder",
+        "label": "Email sender domain",
+        "banner_title": "Customize your email sender domain",
+        "banner_body": "Customizing your email sender domain requires collaboration between us and you. Please reach out via Live chat or email for assistance",
+        "banner_action": "Open Live chat"
+    },
+    "remove_watermark": {
+        "title": "Free BLOOP Referral branding removal 😍️",
+        "description": "We can help you remove all the BLOOP watermarks from your store for free. Contact us to enjoy a cleaner interface!",
+        "cta": "Request to remove"
+    },
+    "banner_app_free": {
+        "title": "Your free deal awaits!",
+        "body": "Our new affiliate feature is released! To celebrate, we're giving you FREE lifetime access to BLOOP Refer & Aff but only if you grab the deal now. Click below to keep it free forever!",
+        "action": "Yes, I want this offer"
+    },
+    "domain_modal": {
+        "title_default": "Email sender domain setup",
+        "title_dns": "DNS setup for {{domain}}",
+        "input_label": "Enter email domain",
+        "input_placeholder": "email.bsscommerce.com",
+        "edit_label": "Email domain",
+        "help_text_default": "You'd better use a subdomain (e.g: referral.bsscommerce.com) for better deliverability",
+        "help_text_pending": "DNS propagation usually takes 24-48 hours. Click <1>Add domain</1> again after verification.",
+        "error_invalid": "Please enter a valid domain (e.g. marketing.mystore.com)",
+        "error_invalid_short": "Please enter a valid domain",
+        "error_not_found": "Domain not found",
+        "error_add_failed": "Failed to add domain. Please enter a different domain.",
+        "error_verify_failed": "Domain verification failed. DNS records may not be properly configured yet.",
+        "error_verify_failed_hint": "Domain verification failed, one or more DNS records are missing or incorrect",
+        "error_generic": "An error occurred. Please try again.",
+        "banner_title": "Important",
+        "banner_body": "Add these DNS records below to your domain provider's DNS settings. DNS propagation usually takes 24-48 hours.",
+        "table_record": "Record",
+        "table_type": "Type",
+        "table_name": "Name",
+        "table_value": "Value",
+        "instruction_heading": "DNS setup instruction",
+        "instruction_copy": "Copy DNS records",
+        "instruction_login": "Log in to your DNS hosting provider (where <1>{{domain}}</1> is managed). Common providers are",
+        "instruction_go_to": "Go to your <1>DNS control panel / DNS settings</1> section",
+        "instruction_enter": "Enter those DNS records listed above",
+        "instruction_save": "Save the records",
+        "instruction_wait": "Wait 24-48 hours for DNS propagation",
+        "footer_contact": "Once DNS records are properly configured, your domain is verified. Please <1>contact us</1> if you need any assistance while setting up.",
+        "verified_text": "Verified",
+        "action_add_domain": "Add domain",
+        "action_close": "Close",
+        "action_cancel": "Cancel",
+        "toast_active_updated": "Domain is active and has been updated!",
+        "toast_domain_added": "Domain added! Please configure DNS records.",
+        "toast_verified": "Domain verified and added successfully!",
+        "toast_copied": "Copied"
+    }
+}

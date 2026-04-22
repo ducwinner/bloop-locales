@@ -1,0 +1,32 @@
+{
+    "page_title": "Support",
+    "feedback_heading": "Your feedback",
+    "feedback_body": "Share your ideas and vote on features you'd love to see in Bloop. Your feedback shapes our roadmap ❤️",
+    "resources_heading": "Educational Resources",
+    "card": {
+        "onboard": {
+            "title": "Get onboard",
+            "description": "Schedule a call with our Customer Success team. We'll help you set up your first referral/affiliate campaign tailored to your store",
+            "button": "Book a call"
+        },
+        "chat": {
+            "title": "Chat with us",
+            "description": "Need quick help? Chat with our team for instant support on setup, campaign performance, or troubleshooting",
+            "button": "Chat with us"
+        },
+        "help_center": {
+            "title": "Help center",
+            "description": "Browse our step-by-step guides on creating campaigns, tracking referrals, and boosting conversions",
+            "button": "Visit help center"
+        },
+        "blog": {
+            "title": "Our helpful blog",
+            "description": "Explore expert tips, dozens of templates, and proven strategies to maximize your referral and affiliate programs.",
+            "button": "Visit our blog"
+        }
+    },
+    "contact_modal": {
+        "intro": "This setup requires collaboration between you and our team. Please reach out via <b>Live Chat</b> to get started.",
+        "step_prefix": "Step {{number}}: "
+    }
+}

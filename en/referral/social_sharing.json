@@ -1,0 +1,28 @@
+{
+    "cards": {
+        "x_twitter": "X (Twitter)",
+        "facebook": "Facebook",
+        "whatsapp": "WhatsApp",
+        "message": "Message",
+        "link_title": "Link title",
+        "link_description": "Link description",
+        "referrer_name": "@referrer_name"
+    },
+    "image": {
+        "title": "Image",
+        "default_image": "Default image",
+        "custom_image": "Custom image",
+        "action_upload": "Upload Image",
+        "action_change": "Change Image",
+        "hint_base": "Accepts .jpeg and .png format <br> File must be smaller than 20MB and 20MP",
+        "hint_fb": "<br> Recommends 1200px x 630px size for image",
+        "toast_upload_failed": "Upload failed",
+        "toast_format_rejected": "Format rejected",
+        "toast_size_exceeded": "Size exceeded",
+        "toast_resolution_exceeded": "Resolution exceeded 20MP"
+    },
+    "preview": {
+        "referrer": "Referrer",
+        "about_hour_ago": "about an hour ago"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "sections": {
+        "fraud_prevention": "Fraud prevention",
+        "payment_method": "Payment method"
+    },
+    "fraud_prevention": {
+        "title": "Fraud Prevention",
+        "ip_address_label": "IP address",
+        "ip_address_help": "If referrer and referee have same IP address, referee will not receive discount",
+        "browser_label": "Browser",
+        "browser_help": "Prevent referrers from referring themselves and claiming discount on same browser",
+        "toast_failed_save": "Failed to save settings"
+    }
+}

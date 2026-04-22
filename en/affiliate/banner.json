@@ -1,0 +1,12 @@
+{
+    "support_banner": {
+        "title": "We provide free support whenever you need help!",
+        "chat_with_us": "Chat with us",
+        "description": "The new affiliate feature is now released. We'd love to hear your feedback to improve it to your liking, so don't hesitate to chat with us if you:",
+        "items": {
+            "guidance": "Need step-by-step guidance",
+            "customization": "Require customization",
+            "missing_function": "Can't find a function you need"
+        }
+    }
+}

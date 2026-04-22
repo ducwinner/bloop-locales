@@ -1,0 +1,148 @@
+{
+    "affiliates": {
+        "filters": {
+            "all": "All",
+            "approved": "Approved",
+            "pending": "Pending",
+            "rejected": "Rejected"
+        },
+        "actions": {
+            "export": "Export",
+            "add_affiliate": "Add affiliate"
+        }
+    },
+    "add_affiliate": {
+        "title": "Add affiliate",
+        "fields": {
+            "first_name": "First name",
+            "last_name": "Last name",
+            "email": "Email",
+            "campaign": "Campaign"
+        },
+        "errors": {
+            "required": "Field is required",
+            "email_invalid": "Email invalid!",
+            "invalid_email_retry": "Invalid email. Please try again!"
+        },
+        "toast": {
+            "created": "Affiliate created",
+            "create_failed": "Could not add affiliate",
+            "already_exists": "Affiliate {{email}} already exists"
+        }
+    },
+    "affiliate_detail": {
+        "actions": {
+            "approve": "Approve",
+            "reject": "Reject",
+            "login_as_affiliate": "Login as affiliate",
+            "revert": "Revert"
+        }
+    },
+    "affiliates_table": {
+        "resource_name": {
+            "singular": "affiliate",
+            "plural": "affiliates"
+        },
+        "multiple_codes": "Multiple codes ({{count}})",
+        "no_affiliate_found": "No affiliate found",
+        "searching_in_affiliate": "Searching in affiliate",
+        "delete_modal": {
+            "title": "Confirm Delete",
+            "description": "This action cannot be undone. Continue?"
+        },
+        "toast": {
+            "exported_successfully": "Exported successfully",
+            "export_failed": "Export failed",
+            "update_status_successfully": "Update status successfully",
+            "update_status_failed": "Update status failed",
+            "delete_successfully": "Delete successfully",
+            "delete_failed": "Delete failed"
+        }
+    },
+    "domain_customize": {
+        "fields": {
+            "zip_pin_code": "ZIP/PIN Code",
+            "location": "Location"
+        },
+        "table_headings": {
+            "customer": "Customer",
+            "status": "Status",
+            "joined_at": "Joined at",
+            "program": "Program",
+            "discount_code": "Discount code",
+            "zip_pin_code": "ZIP/PIN Code",
+            "action": "Action",
+            "full_name": "Full name",
+            "email": "Email"
+        }
+    },
+    "affiliates_detail": {
+        "affiliate_info": {
+            "title": "Affiliate information",
+            "status": "Status",
+            "first_name": "First name",
+            "last_name": "Last name",
+            "email": "Email",
+            "no_file": "No have file",
+            "yes": "Yes",
+            "no": "No",
+            "none": "None",
+            "edit_affiliate_information": "Edit affiliate information",
+            "change": "Change",
+            "zip_pin_code": "ZIP/PIN code",
+            "close": "Close"
+        },
+        "analytics": {
+            "total_sales": "Total sales",
+            "total_commission": "Total commission",
+            "pending_commission": "Pending commission"
+        },
+        "campaign_info": {
+            "title": "Affiliate campaign",
+            "no_campaign_assigned": "No campaign assigned",
+            "select_campaign": "Select campaign",
+            "campaign": "Campaign",
+            "change_affiliate_campaign": "Change affiliate's campaign",
+            "change": "Change",
+            "affiliate_link": "Affiliate link",
+            "commission_structure": "Commission structure:",
+            "affiliate_earns_prefix": "Affiliate earns",
+            "affiliate_earns_suffix": "as commission",
+            "maximum_per_referred_customer": ", maximum {{amount}} per referred customer",
+            "exclude_products_or_collections": "Exclude {{count}} {{type}}",
+            "collections": "collections",
+            "products": "products",
+            "exclude_discount": "Exclude discount",
+            "exclude_shipping": "Exclude shipping",
+            "exclude_taxes": "Exclude taxes"
+        },
+        "payment_method": {
+            "title": "Payment method",
+            "method": "Method",
+            "no_payment_method": "No payment method"
+        },
+        "referral_order": {
+            "no_order": "No order",
+            "no_customer": "No customer",
+            "no_referral_approved": "No referral approved found",
+            "order_information": "Order information",
+            "view_all": "View all",
+            "headings": {
+                "order_id": "Order id",
+                "referral_email": "Referral email",
+                "sales_amount": "Sales amount",
+                "commission": "Commission"
+            }
+        },
+        "discount_coupon": {
+            "title": "Discount coupon",
+            "no_code_assigned": "No code assigned",
+            "assign_coupon": "Assign coupon",
+            "delete_warning": "This action can't be undone",
+            "delete_discount": "Delete discount",
+            "discount_name": "Discount name",
+            "invalid_discount_help": "Discount doesn't exist, please go to <discountLink>Shopify Admin > Discounts</discountLink> to create a new one",
+            "assign_discount_coupon": "Assign discount coupon"
+        }
+    }
+}

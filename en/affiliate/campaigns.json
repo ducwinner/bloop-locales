@@ -1,0 +1,168 @@
+{
+    "campaigns": {
+        "actions": {
+            "create_campaign": "Create campaign"
+        }
+    },
+    "social_card": {
+        "title": "How to create an affiliate program with BLP?",
+        "watch_video": "Watch video",
+        "description": "Learn how to create a Shopify affiliate program with BLP in just a few clicks!",
+        "dismiss": "Dismiss"
+    },
+    "campaigns_table": {
+        "mode": {
+            "basic": "Basic",
+            "advanced": "Advanced"
+        },
+        "headings": {
+            "campaign_name": "Campaign name",
+            "status": "Status",
+            "mode": "Mode",
+            "value": "Value",
+            "num_of_affiliates": "Num. of affiliates",
+            "default_program": "Default program",
+            "action": "Action"
+        }
+    },
+    "campaign_status": {
+        "title": "Affiliate program",
+        "toast": {
+            "must_upgrade_plan": "Must upgrade your plan"
+        },
+        "turn_off_modal": {
+            "title": "Turn off the affiliate program",
+            "turn_off": "Turn off",
+            "description": "Are you sure want to turn off the affiliate program? Once it's turned off:",
+            "item_widgets_prefix": "All affiliate widgets will",
+            "item_widgets_emphasis": "disappear",
+            "item_widgets_suffix": "from your storefront.",
+            "item_links_prefix": "Affiliate links, discount codes, and rewards will",
+            "item_links_emphasis": "stop working",
+            "item_links_suffix": "for both affiliates and the customers."
+        }
+    },
+    "campaign_detail": {
+        "title": {
+            "create_campaign": "Create campaign",
+            "edit_campaign": "Edit campaign",
+            "default": "Default"
+        },
+        "actions": {
+            "set_as_default": "Set as default",
+            "delete_campaign": "Delete campaign"
+        },
+        "delete_modal": {
+            "description": "If you delete {{campaignName}}, this can't be undone",
+            "title": "Delete {{campaignName}}?",
+            "delete_campaign": "Delete campaign"
+        },
+        "validation": {
+            "discount_code_empty": "Discount code can't be empty",
+            "discount_not_found": "Discount doesn't exist, please go to Shopify Admin > Discounts to create a new one"
+        },
+        "toast": {
+            "campaign_saved": "Campaign saved",
+            "campaign_deleted": "Campaign deleted"
+        }
+    },
+    "resource_picker": {
+        "search_products": "Search products",
+        "search_collections": "Search collections",
+        "search_variants": "Search variants",
+        "copied_to_clipboard": "Copied to clipboard",
+        "copied_text": "Copied {{text}}"
+    },
+    "commission_calculation": {
+        "title": "Commission calculation",
+        "description": "You can choose what should be excluded from calculating commission",
+        "specific_products": "Specific products",
+        "specific_collection": "Specific collection",
+        "exclude_products": "Exclude products",
+        "exclude_discounts": "Exclude discounts",
+        "exclude_shipping": "Exclude shipping",
+        "exclude_taxes": "Exclude taxes",
+        "exclude_tips": "Exclude tips"
+    },
+    "commission_structure": {
+        "title": "Commission structure",
+        "mode": "Mode",
+        "yes": "Yes",
+        "no": "No",
+        "maximum_affiliate_commission_per_customer": "Maximum affiliate commission per customer",
+        "value": "Value",
+        "maximum_help_text": "The maximum commission an affiliate can earn per customer is {{amount}}",
+        "type": "Type",
+        "level": "Level {{index}}",
+        "order_minimum_requirement": "Order minimum requirement",
+        "add_level": "Add level",
+        "discount_type": {
+            "fix_per_order": "Fix per order"
+        }
+    },
+    "general_setting": {
+        "title": "General settings",
+        "campaign_name": "Campaign name",
+        "status": "Status",
+        "cookie_days_tooltip": "Decides the tracking timeframe for customers introduced by affiliates",
+        "description_optional": "Description (optional)",
+        "errors": {
+            "campaign_name_empty": "Campaign name can't be empty",
+            "cookie_day_empty": "Cookie day can't be empty"
+        }
+    },
+    "discount": {
+        "title": "Auto apply discount",
+        "description": "If active, your customers will automatically have a discount applied when visiting your store via affiliate link",
+        "status": "Status",
+        "discount_code_to_apply": "Discount code to apply",
+        "enter_discount_code": "Enter discount code",
+        "if_no_discount_prefix": "If you haven’t created a discount code, go to",
+        "shopify_admin_discounts": "Shopify Admin > Discounts",
+        "if_no_discount_suffix": "to create a new one"
+    },
+    "commission_example": {
+        "title": "Commission calculation example",
+        "product": "Product",
+        "discount": "Discount",
+        "shipping": "Shipping",
+        "taxes": "Taxes",
+        "tip": "Tip",
+        "order_value": "Order value",
+        "sales_amount": "Sales amount",
+        "commission_calculation": "Commission calculation",
+        "commission": "Commission"
+    },
+    "product_specific_commissions": {
+        "discount_type": {
+            "percentage_of_sales": "Percentage of sales",
+            "fix_per_item": "Fix per item"
+        },
+        "loading_products": "Loading products: {{loaded}} / {{total}}",
+        "browse_products": "Browse products",
+        "browse_products_description": "Browse and select products to set special product commission",
+        "headings": {
+            "product": "Product",
+            "collection": "Collection",
+            "commission_type": "Commission Type",
+            "commission_rate": "Commission Rate"
+        },
+        "delete_confirm": "Are you sure you want to delete {{count}} products",
+        "confirm_action": "Confirm action",
+        "searching": "Searching"
+    },
+    "browse_products_modal": {
+        "title": "Product specific commission",
+        "apply_to": "Apply to",
+        "type": "Type",
+        "commission_rate": "Commission rate",
+        "options": {
+            "specific_products": "Specific products",
+            "specific_collections": "Specific collections"
+        }
+    },
+    "modal_social_campaign": {
+        "title": "Social campaign",
+        "cancel": "Cancel"
+    }
+}

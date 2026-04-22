@@ -1,0 +1,128 @@
+{
+    "settings": {
+        "sections": {
+            "general": "General",
+            "automation": "Automation",
+            "payment": "Payment"
+        }
+    },
+    "settings_general": {
+        "basic_information": "Basic information",
+        "email_help": "Email address where affiliates can contact you",
+        "email_required": "Email is required",
+        "affiliate_login_page": "Affiliate login page",
+        "customize_portal_subpath": "Customize portal's subpath",
+        "subpath_ok": "OK",
+        "subpath_already_exists": "Already exist!",
+        "toast": {
+            "could_not_save": "Could not saved"
+        }
+    },
+    "settings_automation": {
+        "options": {
+            "manually": "Manually",
+            "immediately": "Immediately"
+        },
+        "affiliate_approval_automation": {
+            "title": "Affiliate approval automation",
+            "description": "Choose how the affiliate will be approved after registration"
+        },
+        "order_approval_automation": {
+            "title": "Order approval automation",
+            "description_prefix": "Choose how the referral orders will be approved in the",
+            "sales": "Sales",
+            "description_suffix": "tab"
+        },
+        "assign_tags": {
+            "title": "Assign tags on Shopify",
+            "description": "Assign a tag to orders/customers brought by affiliates on Shopify",
+            "customer": "Customer",
+            "order": "Order"
+        },
+        "toast": {
+            "could_not_save": "Could not saved"
+        }
+    },
+    "settings_payment": {
+        "title": "Affiliate Payment Methods",
+        "description_prefix": "Select commission payment methods for affiliates to choose from and provide details. You will handle payments in the",
+        "payout": "Payout",
+        "description_suffix": "tab",
+        "add_more_payments": "Add more payments"
+    },
+    "settings_payment_modal": {
+        "title": "Payment details",
+        "add_more_field": "Add more field",
+        "options": {
+            "text": "Text",
+            "email": "Email"
+        },
+        "fields": {
+            "payment_name": "Payment name",
+            "label": "Label",
+            "select_field": "Select field",
+            "required": "Required",
+            "delete": "Delete"
+        },
+        "errors": {
+            "payment_name_required": "Payment name is required",
+            "label_required": "Label field is required"
+        }
+    },
+    "settings_setup_guide": {
+        "dismiss": "Dismiss",
+        "all_tasks_complete": "All tasks complete",
+        "progress_label": "{{done}} of {{total}} {{taskWord}} complete",
+        "task_word_singular": "task",
+        "task_word_plural": "tasks",
+        "header_aria": "Setting header",
+        "title": "Setup guide",
+        "description": "Use this personalized guide to get your affiliate program up and running",
+        "dismiss_toggle_aria": "Dismiss and Toggle",
+        "step_image_alt": "Setting Step",
+        "steps": {
+            "campaign": {
+                "title": "Continue campaign setup",
+                "description": "Pick up where you left off and finish a complete affiliate program",
+                "action": "Finish affiliate campaign"
+            },
+            "signup_form": {
+                "title": "Set up the affiliate signup form",
+                "description": "Create a form for affiliates to register and join your program:",
+                "point_1_prefix": "1.Customize the",
+                "signup_form_link": "signup form",
+                "point_2_prefix": "2.Add the signup form into a separate page. Check",
+                "point_3_prefix": "3.Add affiliate program link in website menu. Check",
+                "guideline_link": "guideline"
+            },
+            "branding": {
+                "title": "Customize the affiliate portal",
+                "description": "Add your logo, colors, and branding to match your store:",
+                "point_1_prefix": "1.Customize",
+                "portal_branding_link": "portal branding",
+                "point_2_prefix": "2.Customize",
+                "portal_content_link": "portal content",
+                "point_3_prefix": "3.Add",
+                "terms_link": "terms & conditions",
+                "point_3_suffix": "for affiliates",
+                "point_4_prefix": "4.Customize your",
+                "portal_link_link": "portal link"
+            },
+            "email": {
+                "title": "Set up email notifications",
+                "description": "Configure automated emails for affiliate approvals, payouts, and updates.",
+                "action": "Setup email notifications"
+            },
+            "payout_method": {
+                "title": "Set up affiliate payout methods",
+                "description": "Allow affiliates to fill in their payment details, you then can send commissions through provided payout options.",
+                "action": "Enable the program"
+            },
+            "test_flow": {
+                "title": "Test the affiliate flow",
+                "description": "Try the full process from signup to referral to make sure everything works smoothly.",
+                "action": "Check testing guide"
+            }
+        }
+    }
+}

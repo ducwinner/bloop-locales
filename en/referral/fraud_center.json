@@ -1,0 +1,95 @@
+{
+    "toast": {
+        "failed_load_center": "Failed to load Fraud Center",
+        "failed_load_referrer_details": "Failed to load referrer details",
+        "referrer_banned": "Referrer banned",
+        "failed_ban_referrer": "Failed to ban referrer"
+    },
+    "center": {
+        "fraud_history": "Fraud history",
+        "search_referrers": "Search referrers",
+        "headings": {
+            "referrer": "Referrer",
+            "suspicious_activity": "Suspicious activity",
+            "total_incentives": "Total incentives",
+            "days_left_to_review": "Days left to review"
+        },
+        "empty": {
+            "none": "No suspicious referrers",
+            "search": "No suspicious referrers found"
+        },
+        "resource": {
+            "singular": "suspicious referrer",
+            "plural": "suspicious referrers"
+        },
+        "unknown": "Unknown",
+        "all": "All"
+    },
+    "detail": {
+        "referrer_fallback": "Referrer",
+        "fraud_history": "Fraud history",
+        "suspicious_referrals": "Suspicious referrals",
+        "suspected_count": "{{count}} referrals are suspected",
+        "purchaser": "Purchaser: {{email}}",
+        "view_order": "View order",
+        "table": {
+            "purchase_id": "Purchase ID",
+            "purchaser": "Purchaser",
+            "type": "Type",
+            "days_left_to_review": "Days left to review",
+            "empty": "No suspicious referrals found."
+        },
+        "contact": "Contact",
+        "email": "Email",
+        "contact_status": "Contact status",
+        "status": {
+            "banned": "Banned",
+            "active": "Active",
+            "enabled": "Enabled",
+            "excluded": "Excluded"
+        },
+        "detection_badge": "Detection {{status}}",
+        "ban_action": "Ban {{name}}",
+        "suspicious_referral_detection": "Suspicious referral detection",
+        "exclude_detection": "Exclude suspicious referral detection",
+        "enable_detection": "Enable detection",
+        "na": "-"
+    },
+    "history": {
+        "title": "Fraud history",
+        "search_by_email": "Search by email",
+        "headings": {
+            "date": "Date",
+            "email": "Email",
+            "type": "Type",
+            "action": "Action",
+            "action_taken_by": "Action taken by"
+        },
+        "resource": {
+            "singular": "fraud log",
+            "plural": "fraud logs"
+        },
+        "empty": "No fraud history found",
+        "type_referral": "Referral",
+        "type_system": "System",
+        "toast_failed_load": "Failed to load fraud history",
+        "na": "-"
+    },
+    "ban_modal": {
+        "title_default": "Ban referrer from referring?",
+        "title_with_email": "Ban {{email}} from referring?",
+        "new_referrals_prevented": "New referrals will be prevented",
+        "item_disable_link": "Customer's referral link will be disabled",
+        "item_disable_code": "Customer's referral code will be disabled",
+        "pending_disqualified": "Pending referred purchases will be disqualified",
+        "item_not_referred": "Purchases within the review period will not be considered as referred",
+        "item_rewards_not_sent": "Rewards will not be sent",
+        "acknowledge": "I acknowledge that the effects listed are irreversible",
+        "confirm_ban": "Ban referrer from referring"
+    },
+    "help_banner": {
+        "title": "Unsure how to handle suspicious referrals?",
+        "action": "Read help article",
+        "description": "Get help by contacting us or reading our help article."
+    }
+}

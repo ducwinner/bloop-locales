@@ -1,0 +1,121 @@
+{
+    "sales": {
+        "actions": {
+            "add_sale": "Add sale",
+            "export_sale": "Export sale"
+        }
+    },
+    "add_sale": {
+        "title": "Add sales",
+        "methods": {
+            "existing_order": "Existing order",
+            "fixed_amount": "Fixed amount"
+        },
+        "fields": {
+            "affiliate": "Affiliate",
+            "select_affiliate": "Select affiliate",
+            "affiliate_listbox_aria": "Affiliate list",
+            "adding_method": "Adding method",
+            "order": "Order",
+            "order_help": "Order id example: 6283912842912, order name example: #142",
+            "commission": "Commission",
+            "total_sales_optional": "Total sales (optional)",
+            "enter_total_sales": "Enter total sales",
+            "note_optional": "Note (optional)",
+            "enter_note": "Enter note"
+        },
+        "errors": {
+            "order_not_found": "Order doesn't exist"
+        },
+        "order_banner": {
+            "title": "Order {{orderName}}",
+            "total_order_value": "Total order value:",
+            "total_sale": "Total sale:",
+            "commission": "Commission"
+        },
+        "warning": {
+            "commission_exceeds_limit": "Affiliate's commission on this customer exceeds limit, please ensure before adding"
+        },
+        "toast": {
+            "created_successfully": "Sale created successfully",
+            "create_failed": "Failed to create sale"
+        }
+    },
+    "sales_detail": {
+        "order": {
+            "order_title": "Order {{orderName}}",
+            "customer": "Customer",
+            "no_customer": "No customer",
+            "zip_pin_code": "ZIP/PIN Code",
+            "location": "Location",
+            "commission_applied": "Commission applied",
+            "affiliate_earns_prefix": "Affiliate earns",
+            "affiliate_earns_suffix": "as commission",
+            "order_information": "Order information",
+            "subtotal": "Subtotal",
+            "discount": "Discount",
+            "shipping": "Shipping",
+            "taxes": "Taxes",
+            "tip": "Tip",
+            "total_order_value": "Total order value",
+            "total_sale": "Total Sale",
+            "commission": "Commission"
+        },
+        "affiliate_info": {
+            "title": "Affiliate information",
+            "full_name": "Full name",
+            "active_campaign": "Active campaign"
+        },
+        "note": {
+            "title": "Note",
+            "empty_placeholder": "This is a note example",
+            "enter_note": "Enter note",
+            "change_note": "Change Note"
+        }
+    },
+    "sales_table": {
+        "no_order": "No order",
+        "no_customer": "No customer",
+        "no_sales": "No sales",
+        "no_affiliate_found": "No affiliate found",
+        "searching_in_sales": "Searching in sales",
+        "toast": {
+            "sale_updated_successfully": "Sale updated successfully"
+        },
+        "headings": {
+            "order_id": "Order id",
+            "affiliate": "Affiliate",
+            "customer": "Customer",
+            "total_sales": "Total sales",
+            "commission": "Commission",
+            "status": "Status",
+            "created_at": "Created at",
+            "action": "Action"
+        },
+        "filters": {
+            "all": "All",
+            "paid": "Paid",
+            "approved": "Approved",
+            "pending": "Pending",
+            "rejected": "Rejected"
+        }
+    },
+    "sale_detail": {
+        "title": "Sales order {{orderName}}",
+        "sale": "Sale",
+        "total_sale": "Total Sale",
+        "commission": "Commission",
+        "delete_order": "Delete order",
+        "actions": {
+            "send_payment": "Send payment",
+            "mark_as_pending": "Mark as pending",
+            "approve": "Approve",
+            "reject": "Reject"
+        },
+        "delete_modal": {
+            "description": "If you delete order {{orderName}}, this can't be undone",
+            "title": "Delete order {{orderName}}?",
+            "delete_order": "Delete order"
+        }
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "common": {
+        "na": "N/A",
+        "pending": "Pending",
+        "all": "All",
+        "searching_placeholder": "Searching in referral orders",
+        "no_referral_orders_found": "No referral orders found"
+    },
+    "status": {
+        "pending_hours_left": "Pending - {{count}} hours left of review period",
+        "pending_days_left": "Pending - {{count}} days left of review period",
+        "zero_hours_left": "0 hours left of review period",
+        "suspicious": "Suspicious",
+        "reward_sent": "Reward sent",
+        "reward_declined": "Reward declined",
+        "cash_sent": "Cash sent"
+    },
+    "cash_payout": {
+        "tabs": {
+            "pending": "Pending",
+            "sent": "Cash Sent"
+        },
+        "headings": {
+            "referrers": "Referrers",
+            "payment_method": "Payment method",
+            "reward": "Reward",
+            "payment_status": "Payment status",
+            "action": "Action"
+        }
+    },
+    "table": {
+        "resource": {
+            "singular": "referral order",
+            "plural": "referral orders"
+        },
+        "headings": {
+            "order_id": "Orders ID",
+            "created_at": "Created at",
+            "referrer": "Referrer",
+            "reward_status": "Reward status",
+            "order_value": "Order value",
+            "referee": "Referee",
+            "action": "Action"
+        },
+        "tabs": {
+            "all": "All",
+            "pending": "Pending",
+            "approved": "Approved",
+            "rejected": "Rejected",
+            "cash": "Cash"
+        }
+    },
+    "approve_modal": {
+        "title": "Approve rewards earlier",
+        "description": "By approving now, rewards will be sent to your referrers sooner than scheduled. Please make sure the referred orders are verified before continuing.",
+        "confirm": "Approve rewards"
+    },
+    "reject_modal": {
+        "title": "Disqualify referral rewards",
+        "when_to_disqualify": "When to disqualify:",
+        "item_1": "You suspect the referral is fraudulent.",
+        "item_2": "The referral is invalid (e.g., created accidentally by a call center).",
+        "if_proceed": "If you proceed:",
+        "item_3": "\"Referrer name\" will lose eligibility for this referral reward and receive an email notification.",
+        "item_4": "\"Referrer name\" can still join future referrals",
+        "item_5": "This order won't be counted toward referral revenue or analytics",
+        "confirm": "Disqualify rewards"
+    },
+    "sales_info": {
+        "resource": {
+            "singular": "sales",
+            "plural": "sales"
+        },
+        "empty_no_order": "No order",
+        "empty_approved": "No referral approved found",
+        "title": "Create payout",
+        "approved_sales": "Approved sales",
+        "headings": {
+            "order_id": "Order id",
+            "total_sales": "Total sales",
+            "commission": "Commission",
+            "created_at": "Create at"
+        },
+        "totals": {
+            "total_sales": "Total sales",
+            "commission": "Commission",
+            "total_commission": "Total commission"
+        },
+        "action_process_to_pay": "Process to pay {{amount}}",
+        "action_revert_payment": "Revert payment",
+        "modal": {
+            "full_name": "Full name",
+            "payment_method": "Payment method",
+            "no_payment_method": "No payment method",
+            "note_optional": "Note (optional)",
+            "note_placeholder": "Enter note",
+            "message_optional": "Message for affiliate (optional)",
+            "message_placeholder": "Enter message",
+            "confirm_paid_prefix": "I confirm that I have paid",
+            "confirm_paid_suffix": "to the referrer outside of this app (the commission will be marked as paid)",
+            "mark_paid": "Mark as paid",
+            "revert_confirm": "Are you sure to revert payment?",
+            "revert_title": "Revert payment",
+            "revert": "Revert"
+        },
+        "toast": {
+            "paid_successfully": "{{count}} referral(s) paid successfully!",
+            "failed_process": "Failed to process payout. Please try again.",
+            "error_process": "Error processing payout. Please try again.",
+            "reverted_successfully": "{{count}} referral(s) reverted successfully!",
+            "failed_revert": "Failed to revert payout. Please try again.",
+            "error_revert": "Error reverting payout. Please try again."
+        }
+    },
+    "payment_method_info": {
+        "empty": "No payment methods found",
+        "title": "Payment methods",
+        "method_label": "Method: {{name}}"
+    },
+    "referrer_info": {
+        "title": "Referrer information",
+        "view": "View",
+        "full_name": "Full name",
+        "email": "Email"
+    }
+}

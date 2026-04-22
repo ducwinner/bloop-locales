@@ -1,0 +1,6 @@
+{
+    "banner": {
+        "title": "Redirecting outside of Shopify",
+        "body": "Apps can only use /exit iframe to reach Shopify or the app itself."
+    }
+}

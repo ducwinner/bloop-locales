@@ -1,0 +1,32 @@
+{
+    "title": "Referral program",
+    "tabs": {
+        "campaign": "Campaign",
+        "customers": "Customers",
+        "orders": "Orders",
+        "analytics": "Analytics",
+        "track_coupons": "Track Coupons",
+        "activities": "Activities",
+        "fraud": "Fraud center",
+        "settings": "Settings"
+    },
+    "toast_must_upgrade": "Must upgrade your plan",
+    "coming_soon": {
+        "title": "Coming soon",
+        "line_1": "This feature is still under development.",
+        "line_2": "Would you like to share what analytics you'd like us to include?",
+        "cta": "Yes, let me share my ideas",
+        "crisp_message": "Great! What would you like us to include in analytics?"
+    },
+    "turn_off": {
+        "title": "Turn off the referral program",
+        "action": "Turn off",
+        "intro": "Are you sure want to turn off the referral program? Once it's turned off:",
+        "item_widget_prefix": "All referral widgets will",
+        "item_widget_emphasis": "disappear",
+        "item_widget_suffix": "from your storefront.",
+        "item_referral_prefix": "Referral links, discount codes, and rewards will",
+        "item_referral_emphasis": "stop working",
+        "item_referral_suffix": "for both referrers and referees."
+    }
+}

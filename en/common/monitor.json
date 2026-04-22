@@ -1,0 +1,7 @@
+{
+    "error": {
+        "title": "Application Error",
+        "message": "A client side exception has occurred"
+    },
+    "go_to_dashboard": "Go to dashboard"
+}

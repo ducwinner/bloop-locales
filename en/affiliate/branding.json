@@ -1,0 +1,239 @@
+{
+    "branding": {
+        "cards": {
+            "affiliate_registration": {
+                "title": "Affiliate registration",
+                "description": "Edit the content and the information inputs on your registration page"
+            },
+            "affiliate_guide": {
+                "title": "Affiliate guide",
+                "description": "Set the instructions affiliates see when they log into their portal"
+            },
+            "portal_style": {
+                "title": "Portal style",
+                "description": "Tailor the portal's design to align with your brand's look and feel"
+            },
+            "portal_translations": {
+                "title": "Portal translations",
+                "description": "Setup the portal content to support your preferred languages"
+            },
+            "on_site_content": {
+                "title": "On-site content",
+                "description": "Setup the on-site content"
+            }
+        }
+    },
+    "portal_guide": {
+        "title": "Affiliate guide",
+        "go_to_portal": "Go to portal",
+        "guide_content": "Guide content"
+    },
+    "portal_translations": {
+        "title": "Portal translations",
+        "order_details": "Order details",
+        "new_text": "New text",
+        "languages": {
+            "english": "English",
+            "germany": "Germany",
+            "italian": "Italian",
+            "french": "French",
+            "arabic": "Arabic",
+            "indian": "Indian",
+            "dutch": "Dutch"
+        },
+        "tabs": {
+            "common": "Common",
+            "login": "Login",
+            "dashboard": "Dashboard",
+            "product": "Product",
+            "commission": "Commission",
+            "guide": "Guide",
+            "payment": "Payment",
+            "settings": "Settings"
+        }
+    },
+    "portal_style": {
+        "title": "Portal style",
+        "go_to_portal": "Go to portal",
+        "affiliate_portal_style": "Affiliate portal style",
+        "portal_primary_color": "Portal primary color",
+        "portal_title": "Portal title",
+        "portal_title_help": "The title shown on the browser tab next to the favicon",
+        "portal_title_placeholder": "Affiliate Portal",
+        "portal_logo": "Portal logo",
+        "portal_favicon": "Portal favicon",
+        "toast": {
+            "upload_images_failed": "Upload images failed"
+        }
+    },
+    "identifier_bar": {
+        "title": "Affiliate identifier bar",
+        "online_store_preview": "Online Store Preview",
+        "variables": "Variables",
+        "status": "Status",
+        "status_help": "Highlight the affiliate’s name at the top of your store when customers visits your store via an affiliate link",
+        "content": "Content",
+        "color": "Color",
+        "colors": {
+            "background": "Background",
+            "text": "Text"
+        },
+        "tweaking_style": "Tweaking Style",
+        "tweaking_style_help": "Need help tweaking your store’s identifier bar?",
+        "contact_us": "Contact us!",
+        "preview": "Preview"
+    },
+    "registration_form": {
+        "editor": {
+            "tabs": {
+                "form_fields": "Form fields",
+                "content": "Content",
+                "settings": "Settings"
+            }
+        },
+        "edit_field": {
+            "field_types": {
+                "select": "--Select field type--",
+                "text": "Text field",
+                "multiple_checkbox": "Multiple-checkbox",
+                "radio": "Radio button",
+                "file": "File upload",
+                "terms": "Terms agreement",
+                "first_name": "First name field",
+                "last_name": "Last name field",
+                "email": "Email field"
+            },
+            "labels": {
+                "field_type": "Field type",
+                "label": "Label",
+                "term_name": "Term name",
+                "term_link": "Term link",
+                "placeholder": "Placeholder",
+                "option": "Option {{index}}",
+                "required": "Required"
+            },
+            "help": {
+                "use_terms_placeholder": "Use {terms} to represent the text with link"
+            },
+            "actions": {
+                "add_option": "Add option",
+                "done": "Done"
+            },
+            "errors": {
+                "field_required": "Field is required",
+                "option_required": "Option is required",
+                "label_duplicated": "Label is duplicated"
+            },
+            "toast": {
+                "update_successfully": "Update field successfully",
+                "update_failed": "Update field failed"
+            },
+            "presets": {
+                "checkbox_label": "I agree with {terms}",
+                "multiple_checkbox_label": "Where will you share our website?",
+                "radio_label": "Have you ever joined any affiliate program?",
+                "file_label": "Please upload your W-9 form",
+                "choose_file": "Choose file",
+                "facebook": "Facebook",
+                "instagram": "Instagram",
+                "twitter": "Twitter",
+                "yes": "Yes",
+                "no": "No",
+                "considering": "I’m considering",
+                "not_sure": "Not sure"
+            }
+        },
+        "preview": {
+            "no_file_chosen": "No file chosen",
+            "message_sent_successfully": "Message sent successfully!",
+            "powered_by": "Powered by BLOOP Referrals & Affiliates",
+            "remove_watermark": "Remove watermark"
+        },
+        "form_field": {
+            "add_field": "Add field",
+            "default_terms_name": "Terms and conditions",
+            "banner_preview": {
+                "description": "To setup registration form, you can do it in Theme Customization section. If you need further assistance, please contact us for FREE support!",
+                "contact_us": "Contact us",
+                "open_app_block": "Open app block"
+            },
+            "banner_update": {
+                "description": "We’ve upgraded affiliate form to help you collect better info. Update now to enjoy improvements!",
+                "update": "Update",
+                "view_old_version": "View old version"
+            }
+        },
+        "content": {
+            "copy_variables": "Copy variables to use in your pages",
+            "sections": {
+                "header": "Header",
+                "form": "Form",
+                "benefits": "Benefits",
+                "how_it_works": "How it works",
+                "thank_you_page": "Thank you page"
+            },
+            "fields": {
+                "title": "Title",
+                "sub_title": "Sub title",
+                "submit_button": "Submit button",
+                "already_have_account": "Already have an account",
+                "sign_in": "Sign in",
+                "section_title": "Section title",
+                "benefit": "Benefit {{index}}",
+                "step": "Step {{index}}",
+                "content": "Content",
+                "button": "Button",
+                "button_link": "Button link"
+            },
+            "actions": {
+                "remove": "Remove",
+                "add_benefit": "Add benefit",
+                "add_step": "Add step"
+            },
+            "errors": {
+                "field_required": "This field is required",
+                "title_required": "Title is required",
+                "subtitle_required": "Subtitle is required",
+                "submit_button_required": "Submit button text is required",
+                "sign_in_required": "Sign in text is required",
+                "section_title_required": "Section title is required",
+                "benefit_required": "Benefits {{index}} is required",
+                "how_it_works_step_required": "How it works step {{index}} is required",
+                "content_required": "Content is required",
+                "button_text_required": "Button text is required",
+                "button_link_required": "Button link is required"
+            }
+        },
+        "settings": {
+            "sections": {
+                "general": "General",
+                "header_style": "Header style",
+                "information_style": "Information style",
+                "form_style": "Form style"
+            },
+            "fields": {
+                "button_color": "Button color",
+                "font_family": "Font family",
+                "heading_font_size": "Heading font size",
+                "content_font_size": "Content font size",
+                "display": "Display",
+                "border": "Border",
+                "title_color": "Title color",
+                "subtitle_color": "Subtitle color",
+                "title_font_size": "Title font size",
+                "subtitle_font_size": "Subtitle font size",
+                "background_color": "Background color",
+                "text_color": "Text color"
+            },
+            "fonts": {
+                "current_theme": "Current theme font"
+            },
+            "display_options": {
+                "all_sections": "All sections",
+                "information_with_form_sections": "Information with form sections",
+                "title_with_form_sections": "Title with form sections",
+                "only_form": "Only form"
+            }
+        }
+    }
+}

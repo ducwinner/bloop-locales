@@ -1,0 +1,62 @@
+{
+    "payouts": {
+        "filters": {
+            "pending": "Pending",
+            "paid": "Paid"
+        }
+    },
+    "payouts_tables": {
+        "no_referral_approved_found": "No referral approved found",
+        "search_affiliate": "Search affiliate",
+        "headings": {
+            "affiliate": "Affiliate",
+            "payment_method": "Payment method",
+            "num_of_sales": "Num. of sales",
+            "total_sales": "Total sales",
+            "commission": "Commission",
+            "status": "Status",
+            "create_at": "Create at",
+            "action": "Action"
+        }
+    },
+    "payouts_detail": {
+        "affiliate_information": "Affiliate information",
+        "full_name": "Full name",
+        "payment_method": "Payment method",
+        "no_payment_method": "No payment method",
+        "no_order": "No order",
+        "create_payout": "Create payout",
+        "approved_sales": "Approved sales",
+        "paid_sales": "Paid sales",
+        "payout": "Payout",
+        "headings": {
+            "order_id": "Order id",
+            "total_sales": "Total sales",
+            "commission": "Commission",
+            "create_at": "Create at"
+        },
+        "total_sales": "Total sales",
+        "commission": "Commission",
+        "paid_at": "Paid at",
+        "process_to_pay": "Process to pay {{amount}}",
+        "no_payment_method_tooltip": "Affiliate has not set up a payment method",
+        "note_optional": "Note (optional)",
+        "enter_note": "Enter note",
+        "message_for_affiliate_optional": "Message for affiliate (optional)",
+        "enter_message": "Enter message",
+        "total_commission": "Total commission",
+        "confirm_prefix": "I confirm that I have paid",
+        "confirm_suffix": "to the affiliate outside of this app (the commission will be marked as paid)",
+        "mark_as_paid": "Mark as paid",
+        "revert_payment": "Revert payment",
+        "revert_confirm": "Are you sure to revert payment?",
+        "revert": "Revert",
+        "toast": {
+            "failure": "Failure"
+        }
+    },
+    "payout_pages": {
+        "view_payouts": "View Payouts",
+        "view_payout": "View Payout"
+    }
+}

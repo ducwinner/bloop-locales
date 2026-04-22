@@ -1,0 +1,122 @@
+{
+    "toast": {
+        "emails_updated": "Emails updated",
+        "error_later": "There was an error. Please try again later",
+        "error_generic": "Something went wrong. Please try again later",
+        "upload_failed": "Upload images failed",
+        "send_success": "Send email successfully.",
+        "send_failed": "Could not send test email."
+    },
+    "page": {
+        "watermark_title": "Request watermark removal",
+        "watermark_action": "Request to remove",
+        "watermark_message_prefix": "We can help you remove '",
+        "watermark_message_emphasis": "Powered by BLOOP Referrals & Affiliates",
+        "watermark_message_suffix": "' watermark. Contact us to enjoy a cleaner interface",
+        "referee": "Referee",
+        "referrer": "Referrer"
+    },
+    "preview": {
+        "title": "Preview",
+        "send_test_email": "Send test email",
+        "subject": "Subject:",
+        "from": "From:",
+        "banner_alt": "emailBanner",
+        "powered_by": "Powered by",
+        "powered_by_product": "BLOOP Referrals & Affiliates",
+        "go_to": "Go to",
+        "settings": "Settings",
+        "change_sender_suffix": "section to change email sender"
+    },
+    "send_test_modal": {
+        "title": "Send test email",
+        "send_test": "Send test",
+        "cancel": "Cancel",
+        "email_label": "Email",
+        "email_placeholder": "e.g. bsscommerce@example.com",
+        "email_invalid": "Email must be a valid email address"
+    },
+    "form": {
+        "subject": "Subject",
+        "content": "Content",
+        "button_content": "Button content",
+        "current_theme_font": "Current theme's font",
+        "button_font": "Button Font",
+        "button_hover_color": "Button hover color",
+        "redirect_label": "Redirect customers to specific page when clicking on the button",
+        "redirect_placeholder": "/about-us",
+        "redirect_help_prefix": "Customers will be redirected to",
+        "tab_discount": "discount",
+        "tab_credit": "credit",
+        "tab_cash": "cash"
+    },
+    "email_cards": {
+        "sharing": {
+            "title": "Email invitation from referrers",
+            "description": "Sent to referee when referrer invites via email."
+        },
+        "gift": {
+            "title": "Discount confirmation (after entering email)",
+            "description": "Sent to referee after entering email, including reward coupon code."
+        },
+        "cash_payout": {
+            "title": "Cash payout notification",
+            "description": "Sent to referrer when referral cash reward has been paid out."
+        },
+        "success_reward": {
+            "title": "Successful rewards",
+            "description": "Sent to referrer when earning a reward from a successful referral."
+        },
+        "referral_pending": {
+            "title": "Pending rewards",
+            "description": "Sent to referrer when earning a reward that is pending approval."
+        },
+        "referral_denied": {
+            "title": "Decline rewards",
+            "description": "Sent to referrer when referral reward is declined."
+        },
+        "not_enough_refer": {
+            "title": "Not enough referees to receive reward",
+            "description": "Sent to referrer when a referral is successful but has not reached the required referral number for a reward."
+        },
+        "invite": {
+            "title": "Welcome to referral program",
+            "description": "Sent to customers when joining the referral program, including personal referral link and reward details."
+        },
+        "reward_expiry": {
+            "title": "Reward expiry reminder",
+            "description": "Sent to referrer 3 days before discount code expires if it hasn't been used."
+        },
+        "reward_expiry_referee": {
+            "description": "Sent to referee 3 days before discount code expires if it hasn't been used."
+        },
+        "reward_reminder": {
+            "title": "Reward reminder"
+        },
+        "reward_referee": {
+            "description": "Sent to referee if discount code has not been used within 7 days."
+        },
+        "reward_referrer": {
+            "description": "Sent to referrer if discount code has not been used within 7 days."
+        },
+        "remind_referrer_refer": {
+            "title": "Remind referrer to refer",
+            "description": "Sent to referrer if not perform a referral 7 days after joining."
+        }
+    },
+    "image": {
+        "banner_image": "Banner image",
+        "no_image": "No Image",
+        "image": "Image",
+        "upload_title": "Upload Image",
+        "change_title": "Change Image",
+        "hint": "Accepts .jpeg and .png format <br> File must be smaller than 20MB and 20MP <br> Recommends 1200px x 704px size",
+        "thumbnail_alt": "image-alt",
+        "thumbnail_affiliate_alt": "image_affiliate-alt",
+        "delete_image_aria": "Delete image",
+        "toast_upload_failed": "Upload failed",
+        "toast_format_rejected": "Format rejected",
+        "toast_size_exceeded": "Size exceeded",
+        "toast_resolution_exceeded": "Resolution exceeded 20MP"
+    }
+}

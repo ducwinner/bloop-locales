@@ -1,0 +1,31 @@
+{
+    "view_in_shopify": "View in Shopify",
+    "toast": {
+        "copied": "Copied",
+        "email_copied": "Email copied",
+        "referral_link_copied": "Referral link copied",
+        "referral_code_copied": "Referral code copied"
+    },
+    "customer_info": {
+        "title": "Customer information",
+        "name": "Name",
+        "email": "Email",
+        "program_status": "Program status",
+        "referrer_email": "Referrer: {{email}}",
+        "online_store": "Online store"
+    },
+    "referrals": {
+        "title": "Referrals",
+        "link": "Referral link:",
+        "not_created": "Not created",
+        "code": "Referral Code:",
+        "invites": "Referral invites:",
+        "successful": "Successful referrals:",
+        "revenue": "Referral revenue:"
+    },
+    "a11y": {
+        "copy_email": "Copy email",
+        "copy_referral_link": "Copy referral link",
+        "copy_referral_code": "Copy referral code"
+    }
+}

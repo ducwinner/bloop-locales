@@ -1,0 +1,110 @@
+{
+    "video_modal": {
+        "title": "Video tutorial",
+        "iframe_title": "Setup video tutorial"
+    },
+    "widget_icon": {
+        "title": "Widget button",
+        "toast_updated": "Widget icon updated",
+        "toast_error_save": "Error when save",
+        "content": {
+            "title": "Content",
+            "field_title": "Title",
+            "icon_title": "Icon",
+            "icon_default": "Default",
+            "icon_upload": "Upload image",
+            "upload_hint": "Accepts .jpeg, .png and .ico format <br> File must be smaller than 20MB"
+        },
+        "display": {
+            "title": "Display",
+            "desktop": "Desktop",
+            "mobile": "Mobile",
+            "icon_and_text": "Icon and Text",
+            "only_icon": "Only icon",
+            "only_text": "Only text",
+            "hide_widget": "Hide widget"
+        },
+        "duration": {
+            "title": "Duration",
+            "none": "None",
+            "display_duration": "Display duration",
+            "help_text": "It determines how long your pop-up icon will appear on your store’s pages"
+        },
+        "border": {
+            "title": "Border",
+            "placement_position": "Placement position"
+        },
+        "placement": {
+            "title": "Placement",
+            "placement_position": "Placement position",
+            "bottom_right": "Bottom right",
+            "bottom_left": "Bottom left",
+            "custom": "Custom",
+            "custom_tip_1": "Hold, drag and drop on preview card to position widget pop-up.",
+            "custom_tip_2": "Please set positions for both desktop and mobile devices.",
+            "button_rotation": "Button rotation",
+            "none": "None",
+            "rotate_left": "Rotate left",
+            "rotate_right": "Rotate right"
+        },
+        "visibility": {
+            "title": "Visibility",
+            "show_all_pages": "Show widget on all pages",
+            "show_selected_pages": "Show widget on selected pages",
+            "hide_selected_pages": "Hide widget on selected pages",
+            "action_on_selected_pages": "Action widget on selected pages",
+            "enter_url_placeholder": "Enter your URL",
+            "add": "Add",
+            "home_page": "Home page",
+            "cart_page": "Cart page",
+            "product_page": "Product page",
+            "collection_page": "Collection page",
+            "search_page": "Search page",
+            "specific_url": "Specific URL"
+        }
+    },
+    "verify_email": {
+        "verified": "Verified",
+        "unverified": "Unverified",
+        "error_log": "Error when verify email:"
+    },
+    "preview": {
+        "title": "Preview",
+        "loading": "Loading..."
+    },
+    "translations": {
+        "widget_popup_content": "Widget pop-up content",
+        "popup_pages": {
+            "home": "Referrer Popup - Home",
+            "reward": "Referrer Popup - Rewards",
+            "email": "Referrer Popup - Send Emails",
+            "referee": "Referee Popup"
+        }
+    },
+    "theme": {
+        "typography_font_family": "Font family",
+        "font_current_theme": "Current theme's font",
+        "color_primary": "Primary color",
+        "color_secondary": "Secondary color",
+        "color_text": "Text color",
+        "background_header": "Header background",
+        "background_popup": "Popup background",
+        "solid_color": "Solid color",
+        "image": "Image",
+        "popup_border": "Popup border",
+        "go_to_widget_icon_prefix": "To customize widget icon border, go to",
+        "go_to_widget_icon_link": "Widget icon"
+    },
+    "customer_account": {
+        "share": {
+            "email": "Email",
+            "facebook": "Facebook",
+            "x_twitter": "X / Twitter",
+            "whatsapp": "WhatsApp"
+        },
+        "mock": {
+            "code": "BLOOP_abcd888",
+            "link": "b-bloop.cc/abcde88"
+        }
+    }
+}

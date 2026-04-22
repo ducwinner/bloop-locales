@@ -1,0 +1,160 @@
+{
+    "programs": {
+        "referral": {
+            "title": "Referral program",
+            "description": "Customer receives rewards as discounts after a successful referral",
+            "setup": "Set up"
+        },
+        "affiliate": {
+            "title": "Affiliate program",
+            "badge_new": "New",
+            "description": "Affiliates earn a commission for each sale through their unique referral links or codes",
+            "setup": "Set up"
+        }
+    },
+    "analytics": {
+        "title_referral": "Referral performance",
+        "title_affiliate": "Affiliate performance",
+        "view_detail": "View detailed analytics",
+        "referral_items": {
+            "total_referrers": "Total Referrers",
+            "total_referrers_tip": "Who had referral link",
+            "referee_revenue": "Referee revenue",
+            "referee_revenue_tip": "Total amount spent by referee",
+            "referrer_revenue": "Referrer revenue",
+            "referrer_revenue_tip": "Total amount spent by referrer",
+            "successful": "Successful Referrals",
+            "successful_tip": "Number of successful referrals"
+        },
+        "affiliate_items": {
+            "total_affiliates": "Total affiliates",
+            "total_affiliates_tip": "Who have successfully joined affiliate program",
+            "order_count": "Affiliate order count",
+            "order_count_tip": "Number of affiliate orders",
+            "total_sales": "Total sales",
+            "total_sales_tip": "Total earnings from affiliate orders",
+            "commissions": "Affiliate commissions",
+            "commissions_tip": "Commissions made by all affiliates"
+        }
+    },
+    "support_channels": {
+        "heading": "Support channels",
+        "user_guide": {
+            "title": "User guide",
+            "description": "Find answers for your questions in our documents"
+        },
+        "feature_request": {
+            "title": "Feature requests",
+            "description": "Suggest a feature you want to see in BLOOP Referral"
+        },
+        "book_demo": {
+            "title": "Book a live demo",
+            "description": "Book a Live Demo: Walk you through and answer your questions with our Sales Rep."
+        }
+    },
+    "custom_further": {
+        "title": "🎯 You're almost done!",
+        "primary": "Customize further",
+        "line1": "You've completed the main setup checklist. Great job!",
+        "line2": "Next, explore further customization to tailor everything perfectly for your program.",
+        "banner": "You can also book a 30-min walkthrough, or get a personalize to-do plan."
+    },
+    "referral_activities": {
+        "create_heading": "Create referral program",
+        "create_description": "Set up a referral campaign to reward your customers with successful referrals",
+        "create_cta": "Create campaign",
+        "recent_heading": "Recent activities",
+        "view_all": "View all",
+        "empty": "No available activities recorded",
+        "empty_alt": "No activities",
+        "joined_link_code": "Joined program and received the <1>referral link</1> with discount code <3>{{discount}}</3>",
+        "joined_link": "Joined program and received the <1>referral link</1>",
+        "joined_code": "Joined program and received discount code <1>{{discount}}</1>",
+        "joined": "Joined program",
+        "claimed_discount_from": "Claimed the <1>{{discount}}</1> from <3>#{{order}}</3>",
+        "claimed_credit_from": "Claimed the {{credit}}{{currency}} store credit from <1>#{{order}}</1>",
+        "claimed_cash_from": "Claimed the {{cash}}{{currency}} cash from <1>#{{order}}</1>",
+        "claimed_discount_code": "Claimed the discount code <1>{{discount}}</1>",
+        "purchased_order": "Purchased an order <1>#{{order}}</1>"
+    },
+    "enable_embed_banner": {
+        "app_embed_status": "App embed status",
+        "embed_inactive_description": "BLOOP Referral won't show on storefront if app embed is inactive.",
+        "activate": "Activate app embed",
+        "app_block_status": "App block status",
+        "theme_prefix": "Theme: ",
+        "block_list_heading": "App block status list",
+        "referral_page": "Referral Page",
+        "referral_main": "Referral Main",
+        "referral_guide": "Referral Guide",
+        "referral_reward": "Referral Reward",
+        "affiliate_rf_heading": "Affiliate registration form",
+        "rf_form": "RF form",
+        "added": "Added",
+        "not_added": "Not added",
+        "active_count": "You have {{count}} active app block(s) on your store."
+    },
+    "usage_limit_banner": {
+        "title": "About to hit your limit – don't let sales stop⏱️ !",
+        "action": "Upgrade",
+        "message": "Your program is working hard for you but it will stop soon as you're reaching your monthly order limit. Upgrade now to keep rewarding your customers and growing your sales!"
+    },
+    "plan_limit_banner": {
+        "message_prefix": "You've reached the order limit.",
+        "upgrade": "Upgrade your plan",
+        "message_suffix": "to keep the program running without interruptions.",
+        "usage_label_referral": "{{used}}/{{limit}} referee orders used",
+        "usage_label_affiliate": "{{used}}/{{limit}} affiliate orders used"
+    },
+    "getting_started": {
+        "heading": "Getting started",
+        "faq_heading": "FAQs",
+        "contact_prefix": "Contact us via",
+        "live_chat": "live chat",
+        "contact_middle": "or drop a ticket at",
+        "support_email": "support@bloop.plus",
+        "guide_cards": {
+            "workflow": {
+                "title": "What is the referral workflow?",
+                "description": "The step-by-step process of how your referral program works",
+                "cta": "Learn more"
+            },
+            "setup": {
+                "title": "How to set up a referral program?",
+                "description": "Learn how to set up a referral program with BLOOP",
+                "cta": "Learn more"
+            },
+            "incentives": {
+                "title": "How to choose right incentives?",
+                "description": "Decide on rewards that motivate both referrers and referees to take action",
+                "cta": "Learn more"
+            }
+        },
+        "faq": {
+            "cost": {
+                "q": "How much does it cost to use the app?",
+                "a": "The app is free to use with all core features, including up to 10 referral and 10 affiliate orders. Once you reach this limit, you can <1>upgrade</1> to the Premium plan for unlimited orders and full features, with no extra charges or hidden fees."
+            },
+            "how_referral": {
+                "q": "How does the referral program work?",
+                "a": "Customers get a unique referral link to share with friends, friends place an order using that link, and once the order is completed, rewards are automatically issued to both the referrer and the friend. For more details, please refer to the guideline <1>here</1>."
+            },
+            "landing": {
+                "q": "How I create a landing page for referral program?",
+                "a": "You can create a referral landing page in your store where customers learn about your referral program and instantly join or get their unique referral link or code. This page highlights how the program works, shows rewards earned, and can be added to your navigation or shared in emails. For more details, please refer to the guideline <1>here</1>."
+            },
+            "how_affiliate": {
+                "q": "How does the affiliate program work?",
+                "a": "Affiliates sign up and get a unique tracking link to share, customers click that link and make a purchase, BLOOP tracks the sale and records the commission for the affiliate, and you can review activity and payouts. For more details, please refer to the guideline <1>here</1>."
+            },
+            "payouts": {
+                "q": "Can BLOOP transfer payouts automatically?",
+                "a": "No, BLOOP does not transfer payouts automatically. We track and display all payout details, and merchants handle the actual payouts to affiliates manually."
+            },
+            "diff": {
+                "q": "What is the difference between referral and affiliate programs?",
+                "a": "Referral programs typically reward customers with discounts or cash for inviting friends to your store, while affiliate programs pay commissions to partners or creators for driving sales. Referrals focus on customer-to-customer sharing, whereas affiliates are performance-based partnerships. For more details, please refer to the guideline <1>here</1>."
+            }
+        }
+    }
+}

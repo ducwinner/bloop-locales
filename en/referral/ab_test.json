@@ -1,0 +1,101 @@
+{
+    "list_back": "A/B test",
+    "ab_test_list": {
+        "continue_setup": "Continue setup",
+        "create_test": "Create test",
+        "create_tooltip": "End your active test to create a new one",
+        "page_title": "Test review",
+        "title": "A/B testing",
+        "subtitle": "Activate A/B testing to discover which reward options work best for your campaign.",
+        "status_active": "Active",
+        "status_inactive": "Inactive",
+        "empty": "No A/B tests created",
+        "table": {
+            "campaigns": "Campaigns",
+            "status": "Status",
+            "start_date": "Start date",
+            "end_date": "End date"
+        }
+    },
+    "create": {
+        "title": "Create A/B test",
+        "subtitle": "50/50 split",
+        "start_test": "Start test",
+        "test_name_label": "Test name",
+        "test_name_placeholder": "Default test",
+        "test_name_help": "Audience: 50/50 split",
+        "variable_heading": "Variable",
+        "control": "Control",
+        "variation": "Variation",
+        "referrer_rewards": "Referrer rewards",
+        "referee_rewards": "Referee rewards",
+        "edit_reward": "Edit reward",
+        "toast_failed_save_name": "Failed to save name",
+        "toast_failed_start_test": "Failed to start test"
+    },
+    "edit": {
+        "referrer_reward_title": "Edit referrer reward",
+        "referee_reward_title": "Edit referee reward",
+        "variation_reward_title": "Edit variation {{variant}} - {{rewardType}} reward",
+        "back_to_create": "Create A/B test"
+    },
+    "detail": {
+        "subtitle": "50/50 split",
+        "active": "Active",
+        "inactive": "Inactive",
+        "review_end_test": "Review and end test",
+        "duration_label": "Duration:",
+        "reliable_results_banner": "Run your test in a longer duration for more reliable results.",
+        "selected": "Selected",
+        "enrolled_count": "{{count}} enrolled",
+        "metric": "Metric",
+        "end_test_title": "End test",
+        "end_test_action": "End",
+        "end_test_intro": "Select the option to end the test. Its settings will be automatically applied to your campaign.",
+        "control_radio": "Control A",
+        "variation_radio": "Variation B",
+        "cant_restart": "Test can't be restarted once ended.",
+        "toast_failed_end_test": "Failed to end test"
+    },
+    "metrics": {
+        "referral_revenue": {
+            "label": "Referral revenue",
+            "tooltip": "Total revenue from the referees' first orders"
+        },
+        "referral_invites": {
+            "label": "Referral invites",
+            "tooltip": "Total number of referral sharing links generated"
+        },
+        "referee_store_visits": {
+            "label": "Referee store visits",
+            "tooltip": "Total number of visits from referees"
+        },
+        "referee_coupon_claims": {
+            "label": "Referee coupon claims",
+            "tooltip": "Total number of coupons claimed by referees"
+        },
+        "referral_orders": {
+            "label": "Referral orders",
+            "tooltip": "Total number of first orders made by referees"
+        },
+        "referral_conversion_rate": {
+            "label": "Referral conversion rate",
+            "tooltip": "Referral conversion rate = first orders (from referees) / referral invites"
+        },
+        "more_than_b": "{{value}} more than B",
+        "more_than_a": "{{value}} more than A"
+    },
+    "reward_summary": {
+        "reward_type_coupon": "coupon",
+        "reward_type_store_credits": "store credits",
+        "reward_type_cash": "cash",
+        "discount_percent": "{{value}}% discount {{rewardType}}",
+        "discount_fixed": "{{value}}{{currency}} off {{rewardType}}",
+        "no_expiry": "No expiry",
+        "days_expiry": "{{count}} days expiry",
+        "no_min_requirements": "No minimum requirements",
+        "min_spend": "Minimum spend {{currency}}{{value}}",
+        "min_items": "Minimum {{count}} items",
+        "min_referees": "Minimum {{count}} referees"
+    }
+}

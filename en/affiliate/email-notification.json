@@ -1,0 +1,110 @@
+{
+    "banner": {
+        "title": "Request watermark removal",
+        "action": "Request to remove",
+        "description_prefix": "We can help you remove",
+        "watermark_text": "Powered by BLOOP Referrals & Affiliates",
+        "description_suffix": "watermark. Contact us to enjoy a cleaner interface 😍️"
+    },
+    "sections": {
+        "store_owner": "Store owner (You)",
+        "affiliate_register": "Affiliate - register",
+        "affiliate_sales": "Affiliate - sales",
+        "affiliate_others": "Affiliate - others"
+    },
+    "email_notification": {
+        "toast": {
+            "emails_updated": "Emails updated",
+            "error_try_later": "There was an error. Please try again later",
+            "something_went_wrong": "Something went wrong. Please try again later",
+            "upload_images_failed": "Upload images failed",
+            "send_email_successfully": "Send email successfully.",
+            "could_not_send_test_email": "Could not send test email."
+        }
+    },
+    "email_sender": {
+        "send_to": "Send to",
+        "placeholder": "Type and press enter",
+        "limit_3_emails": "Limit 3 emails"
+    },
+    "send_test_modal": {
+        "title": "Send test email",
+        "send_test": "Send test",
+        "cancel": "Cancel",
+        "email": "Email",
+        "placeholder": "e.g. bsscommerce@example.com",
+        "invalid_email": "Email must be a valid email address"
+    },
+    "preview": {
+        "title": "Preview",
+        "send_test_email": "Send test email",
+        "subject": "Subject",
+        "from": "From",
+        "reset_password_ignore": "Please ignore this email if you did not initiate this change.",
+        "powered_by": "Powered by",
+        "go_to": "Go to",
+        "settings": "Settings",
+        "change_email_sender": "section to change email sender"
+    },
+    "email_custom_img": {
+        "banner_image": "Banner image",
+        "no_image": "No Image",
+        "image": "Image",
+        "change_image": "Change Image",
+        "upload_image": "Upload Image",
+        "toast": {
+            "upload_failed": "Upload failed",
+            "format_rejected": "Format rejected",
+            "size_exceeded": "Size exceeded",
+            "resolution_exceeded": "Resolution exceeded 20MP"
+        }
+    },
+    "email_form": {
+        "subject": "Subject",
+        "content": "Content",
+        "button_content": "Button content",
+        "button_font": "Button Font",
+        "button_hover_color": "Button hover color",
+        "fonts": {
+            "current_theme": "Current theme's font",
+            "arial": "Arial font",
+            "arial_black": "Arial Black font",
+            "comic_sans": "Comic Sans MS font",
+            "courier_new": "Courier New font",
+            "helvetica": "Helvetica font",
+            "impact": "Impact font",
+            "tahoma": "Tahoma font",
+            "verdana": "Verdana font"
+        }
+    },
+    "email_cards": {
+        "titles": {
+            "1": "Pending",
+            "2": "Approved",
+            "3": "Rejected",
+            "4": "New assigned coupon",
+            "5": "New sales",
+            "6": "Sales approved",
+            "7": "Sales declined",
+            "8": "New commission payout",
+            "9": "Reset password",
+            "10": "Manually added - by store owner",
+            "100": "New affiliate registration",
+            "101": "New sales"
+        },
+        "descriptions": {
+            "1": "Sent to affiliate when application for the program is pending approval.",
+            "2": "Sent to affiliate when application for the program has been approved.",
+            "3": "Sent to affiliate when application for the program is rejected.",
+            "4": "Sent to affiliate when a new coupon code is assigned to them.",
+            "5": "Sent to affiliate when new sale is generated.",
+            "6": "Sent to affiliate when generated sale has been approved by store owner.",
+            "7": "Sent to affiliate when generated sale has been declined by store owner.",
+            "8": "Sent to affiliate when commission has been paid out.",
+            "9": "Sent to affiliate when requesting a password reset.",
+            "10": "Sent to affiliate when get added to the affiliate program by the store owner.",
+            "100": "Sent to store owner when new affiliate successfully register.",
+            "101": "Sent to store owner when affiliate generate a new sale."
+        }
+    }
+}

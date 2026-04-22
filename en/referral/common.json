@@ -1,0 +1,50 @@
+{
+    "unsubscribe_modal": {
+        "title": "Unsubscribe from Advanced plan?",
+        "primary_action": "Unsubscribe",
+        "secondary_action": "Cancel",
+        "message_prefix": "Please read the",
+        "message_link": "updated information",
+        "message_suffix": "to learn more about these changes when you downgrade to the Free plan."
+    },
+    "insert_variable": {
+        "button": "Insert variables"
+    },
+    "image_upload": {
+        "format_rejected": "Format rejected",
+        "resolution_exceeded": "Resolution exceeded {{maxResolution}}MP",
+        "size_exceeded": "Size exceeded",
+        "upload_failed": "Upload failed",
+        "spinner_label": "Spinner example",
+        "thumbnail_alt": "image-alt",
+        "delete_image_aria": "Delete image",
+        "action_hint": "Accepts .jpeg and .png format. File must be smaller than {{maxSize}}MB. Resolution must be less than {{maxResolution}}MP.",
+        "action_title_upload": "Upload image",
+        "action_title_change": "Change Image"
+    },
+    "banner": {
+        "post_purchase_support_title": "Add post-purchase widget to your theme",
+        "watch_video": "Watch Video",
+        "post_purchase_support_message": "Watch this quick 2-minute video to add the widget and activate them on your store.",
+        "customer_account_support_title": "Add customer account extension to your theme",
+        "customer_account_support_message": "Watch this quick 2-minute video to add the extensions and activate them on your store.",
+        "request_post_purchase_title": "Add the post-purchase widget to your Thank you page",
+        "view_user_guide": "View user guide",
+        "contact_support": "Contact support",
+        "request_post_purchase_message": "To add the widget to your Thank You page, go to Theme Customization and follow the steps mentioned in the User guide",
+        "request_watermark_title": "Request watermark removal",
+        "request_remove": "Request to remove",
+        "request_watermark_message": "We can help you remove 'BLOOP Referral by BSS' watermark for free. Contact us to enjoy a cleaner interface",
+        "request_watermark_chat": "Hi, I'd like to request the removal of Bloop watermark!",
+        "popup_v2_title": "New popup design released!",
+        "popup_v2_request_migration": "Request migration",
+        "popup_v2_user_guide": "User guide",
+        "popup_v2_chat": "Hey! I’m ready to switch to the new popup design. Can you help?",
+        "popup_v2_message_line_1": "We've enhanced our popup design to make the referral process quicker and easier for everyone. For you, the new design offers a <strong>seamless configuration process</strong> and <strong>easy customization to match your store's branding</strong>. Your customers will benefit from a streamlined referral process and effortless reward claims.",
+        "popup_v2_message_line_2": "Want to upgrade to the new design? Contact us via live chat or email support@bloop.plus. We're excited for you to experience the new design!",
+        "referral_page_title": "Create page",
+        "referral_page_action": "Create page",
+        "referral_page_message": "To set up referral page, please contact us for FREE guidance",
+        "referral_page_chat": "Hi, I'd love to create a referral page"
+    }
+}

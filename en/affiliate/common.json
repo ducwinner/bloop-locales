@@ -1,0 +1,11 @@
+{
+    "download_file": {
+        "label": "Download file"
+    },
+    "status": {
+        "approved": "Approved",
+        "pending": "Pending",
+        "rejected": "Rejected",
+        "paid": "Paid"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "status_options": {
+        "available": "Available",
+        "used": "Used",
+        "expired": "Expired",
+        "deleted": "Deleted"
+    },
+    "filters": {
+        "status": "Status",
+        "status_applied": "Status: {{status}}",
+        "search_placeholder": "Search by coupon code"
+    },
+    "table": {
+        "headings": {
+            "coupon_code": "Coupon code",
+            "referrer": "Referrer",
+            "description": "Description",
+            "status": "Status",
+            "expiry_date": "Expiry date",
+            "used_in_order": "Used in order",
+            "created_at": "Created at"
+        },
+        "resource": {
+            "singular": "coupon",
+            "plural": "coupons"
+        },
+        "empty": "No coupons found",
+        "no_expiry": "No expiry",
+        "no_description": "-",
+        "na": "-"
+    }
+}
